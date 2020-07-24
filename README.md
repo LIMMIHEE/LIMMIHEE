@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, 안드로이드 개발자를 목표로 하는 임미희입니다! 
 
 <!--
 **LIMMIHEE/LIMMIHEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![LIMMIHEE's github stats](https://github-readme-stats.vercel.app/api?username=LIMMIHEE)](https://github.com/LIMMIHEE/github-readme-stats)
