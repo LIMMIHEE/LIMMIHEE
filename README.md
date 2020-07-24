@@ -1,17 +1,15 @@
 ### Hi there 👋, 안드로이드 개발자를 목표로 하는 임미희입니다! 
 
-<!--
-**LIMMIHEE/LIMMIHEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhits.seeyoufarm.com)](https://hits.seeyoufarm.com)
+[![Blog](https://img.shields.io/badge/LIMMIHEE's%20Blog-green?link=https://github.com/LIMMIHEE)](https://helloworld-limmihee.tistory.com/)
+[![Badge](http://img.shields.io/badge/-LIM%20MIHEE-black?style=flat-square&logo=github&link=https://github.com/LIMMIHEE)](https://github.com/LIMMIHEE)
+[![Gmail](https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirimhee@naver.com)](mailto:mirimhee@naver.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+<br>
+
+현재 목표는 안드로이드 개발자! 이후의 목표는 안드로이드와 IOS 모두 가능한 개발자가 되고자 합니다!🎊
+
 [![LIMMIHEE's github stats](https://github-readme-stats.vercel.app/api?username=LIMMIHEE)](https://github.com/LIMMIHEE/github-readme-stats)
