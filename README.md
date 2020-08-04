@@ -10,7 +10,8 @@
 <br>
 <br>
 
-현재 목표는 안드로이드 개발자! 이후의 목표는 안드로이드와 IOS 모두 가능한 개발자가 되고자 합니다!🎊<br>
 The current goal is to become an Android developer! The next goal is to become a possible developer for both Android and IOS!🎊
-
+> 현재 목표는 안드로이드 개발자! 이후의 목표는 안드로이드와 IOS 모두 가능한 개발자가 되고자 합니다!🎊
+<br>
+<br>
 [![LIMMIHEE's github stats](https://github-readme-stats.vercel.app/api?username=LIMMIHEE)](https://github.com/LIMMIHEE/github-readme-stats)
