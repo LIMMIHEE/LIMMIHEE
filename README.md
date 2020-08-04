@@ -1,5 +1,5 @@
-### Hi there 👋, 안드로이드 개발자를 목표로 하는 임미희입니다! 
 ### Hi there 👋, I'm Lim Mi-hee, who aims to develop Android!
+> Hi there 👋, 안드로이드 개발자를 목표로 하는 임미희입니다! 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhits.seeyoufarm.com)](https://hits.seeyoufarm.com)
 [![Blog](https://img.shields.io/badge/LIMMIHEE's%20Blog-green?link=https://github.com/LIMMIHEE)](https://helloworld-limmihee.tistory.com/)
