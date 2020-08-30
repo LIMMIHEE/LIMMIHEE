@@ -15,4 +15,5 @@ The current goal is to become an Android developer! The next goal is to become a
 <br>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIMMIHEE&layout=compact)](https://github.com/LIMMIHEE/LIMMIHEE)   
 [![LIMMIHEE's github stats](https://github-readme-stats.vercel.app/api?username=LIMMIHEE)](https://github.com/LIMMIHEE/github-readme-stats)
