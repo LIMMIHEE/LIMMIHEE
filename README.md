@@ -7,13 +7,7 @@
 [![Gmail](https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirimhee@naver.com)](mailto:mirimhee@naver.com)
 
 
-<br>
-<br>
 
-The current goal is to become an Android developer! The next goal is to become a possible developer for both Android and IOS!🎊
-> 현재 목표는 안드로이드 개발자! 이후의 목표는 안드로이드와 IOS 모두 가능한 개발자가 되고자 합니다!🎊
-<br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIMMIHEE&layout=compact)](https://github.com/LIMMIHEE/LIMMIHEE)   
 [![LIMMIHEE's github stats](https://github-readme-stats.vercel.app/api?username=LIMMIHEE)](https://github.com/LIMMIHEE/github-readme-stats)
