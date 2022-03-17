@@ -7,7 +7,3 @@
 [![Gmail](https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mirimhee@naver.com)](mailto:mirimhee@naver.com)
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIMMIHEE&layout=compact)](https://github.com/LIMMIHEE/LIMMIHEE)   
-[![LIMMIHEE's github stats](https://github-readme-stats.vercel.app/api?username=LIMMIHEE)](https://github.com/LIMMIHEE/github-readme-stats)
