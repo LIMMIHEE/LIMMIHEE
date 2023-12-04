@@ -14,5 +14,5 @@
 <br/>
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee_mm_&slug=Flutter-Bloc-예제)](https://velog.io/@hee_mm_/Flutter-Bloc-예제)   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee_mm_&slug=Devocean-RNReact-Native-스터디-회고-c7hiir6m)](https://velog.io/@hee_mm_/Devocean-RNReact-Native-스터디-회고-c7hiir6m)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee_mm_&slug=Flutter-오픈소스-패키지-기여-회고)](https://velog.io/@hee_mm_/Flutter-오픈소스-패키지-기여-회고)   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee_mm_&slug=소감기-프로젝트-개발기-1)](https://velog.io/@hee_mm_/소감기-프로젝트-개발기-1)
